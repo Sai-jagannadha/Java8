@@ -1,0 +1,14 @@
+
+]
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹H‹RMINORZ
+CODE_SMELL
+p
+java:S1612"?Replace this lambda with method reference 'Collection::stream'.(Œœ»şÿÿÿÿHRMINORZ
+CODE_SMELL
+ƒ
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(Œœ»şÿÿÿÿHRMAJORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õ²İHRMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(Ó­—¿øÿÿÿÿH‘RMAJORZ
+CODE_SMELL

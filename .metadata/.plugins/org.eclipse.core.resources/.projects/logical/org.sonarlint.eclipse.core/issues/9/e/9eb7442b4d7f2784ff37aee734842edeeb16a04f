@@ -1,0 +1,24 @@
+
+Z
+java:S1481"'Remove this unused "s3" local variable.(”‡™¸8úÂËªœ0H»RMINORZ
+CODE_SMELL
+¼
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÎˆÅÜüÿÿÿÿ8úÂËªœ0H½RCRITICALZ
+CODE_SMELL
+i
+java:S1854"6Remove this useless assignment to local variable "s1".(Ç†èä8úÂËªœ0H¿RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ÊÎ®â8úÂËªœ0HÀRMAJORZ
+CODE_SMELL
+i
+java:S1854"6Remove this useless assignment to local variable "s2".(ÌŸâÇ8úÂËªœ0HÁRMAJORZ
+CODE_SMELL
+Z
+java:S1481"'Remove this unused "s1" local variable.(Ç†èä8úÂËªœ0HÂRMINORZ
+CODE_SMELL
+Z
+java:S1481"'Remove this unused "s2" local variable.(ÌŸâÇ8úÂËªœ0HÄRMINORZ
+CODE_SMELL
+i
+java:S1854"6Remove this useless assignment to local variable "s3".(”‡™¸8úÂËªœ0HÆRMAJORZ
+CODE_SMELL

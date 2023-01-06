@@ -1,0 +1,12 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(±‡âÈüÿÿÿÿ8µì›™0H½RMAJORZ
+CODE_SMELL
+b
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8µì›™0H¾RMINORZ
+CODE_SMELL
+N
+java:S1643
+"Use a StringBuilder instead.(×ÌËp8µì›™0HÀRMINORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÍñûÿÿÿÿHÁRMINORZ
+CODE_SMELL
